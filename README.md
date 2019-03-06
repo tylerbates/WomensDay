@@ -11,18 +11,21 @@
 
 `--- Денис попросил добавить ---`
 
-![wdewd](https://user-images.githubusercontent.com/621014/53895887-03f74000-4044-11e9-9453-fb01df732782.gif)
-
-### Поздравляю с 8 марта!
-
-Тёплых солнечных дней, 
-Тёплых солнечних клиентов,
-Тёплых солнечных улыбок коллег!
-
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/621014/53895887-03f74000-4044-11e9-9453-fb01df732782.gif" width="200"/>  
+</p>
+<p align=center>
+<b style="font-size=20px">Поздравляю с 8 марта!</b>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/621014/53895888-048fd680-4044-11e9-8adb-48afcdf5b101.gif" width="200" align="left"/>
+Тёплых солнечных дней, <br>
+Тёплых солнечних клиентов, <br>
+Тёплых солнечных улыбок коллег! <br>
+<br>
 Хорошего настроения и радостных моментов каждый день!
-
-![2gvjy7d](https://user-images.githubusercontent.com/621014/53895888-048fd680-4044-11e9-8adb-48afcdf5b101.gif)
-![6kk](https://user-images.githubusercontent.com/621014/53895889-05286d00-4044-11e9-82a4-6793ad9f97f4.gif)
+<img src="https://user-images.githubusercontent.com/621014/53895889-05286d00-4044-11e9-82a4-6793ad9f97f4.gif" width="200" align="right"/>
+</p>
 
 `--- Денис попросил добавить ---`
 
