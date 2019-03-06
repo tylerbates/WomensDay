@@ -9,10 +9,10 @@
 * Счастья
 * Здоровья
 
-<p align=center>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/621014/53895887-03f74000-4044-11e9-9453-fb01df732782.gif" width="200"/>  
 </p>
-<p align=center>
+<p align="center">
 <b style="font-size=20px">Поздравляю с 8 марта! (Денис)</b>
 </p>
 <img src="https://user-images.githubusercontent.com/621014/53895888-048fd680-4044-11e9-8adb-48afcdf5b101.gif" width="200" align="left"/>
