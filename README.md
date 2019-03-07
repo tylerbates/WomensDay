@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/tylerbates/WomensDay/master/8march.png" style="width: 100%"/>
+
 # Наташа, данная страничка предназначена для поздравления Тебя с международным женским днём.
 
 ## Почему:
